@@ -1,13 +1,13 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom" xml:lang="en">
   <id>/tags/electronic/</id>
-  <title>Learn how to play any song on the 🎸 - Electronic</title>
+  <title>Guitar Lessons - Electronic</title>
   <subtitle><![CDATA[Guitar Instructor. Hourly guitar lessons available.]]></subtitle>
   <link href="/tags/electronic/atom.xml" rel="self" type="application/atom+xml" />
   <link href="/tags/electronic/" rel="alternate" type="text/html" />
   <updated>2020-02-05T15:43:00+01:00</updated>
   <author>
-    <name>Learn how to play any song on the 🎸</name>
+    <name>Guitar Lessons</name>
     <uri>/</uri>
   </author>
   <entry xml:lang="en">
