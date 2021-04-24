@@ -1,1 +1,0 @@
-md-guitar-blog
