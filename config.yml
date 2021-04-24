@@ -1,4 +1,4 @@
-baseline: Learn how to play any song on the 🎸
+baseline: Guitar Instructor
 theme:
   - hyde
   - netlify
@@ -17,6 +17,6 @@ hyde:
     sticky: true
   theme: ""
   reverse: false
-title: Micheal Devany
+title: Learn hot to play any song on the 🎸
 baseurl: /
 canonicalurl: true
