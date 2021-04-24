@@ -5,4 +5,4 @@ image: /images/butler.jpg
 draft: true
 ---
 
-This is a draft.
+This is a test page.
