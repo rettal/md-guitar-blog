@@ -2,6 +2,6 @@
 title: Home
 ---
 
-# The Butler
+# Micheal Devany
 
-> A ready to use static blog, powered by [Cecil](https://cecil.app).
+> Guitar Instructor, learn to play any song on the guitar 🎸.
