@@ -1,4 +1,4 @@
-baseline: Guitar Instructor
+baseline: Guitar Instructor.
 theme:
   - hyde
   - netlify
@@ -17,6 +17,6 @@ hyde:
     sticky: true
   theme: ""
   reverse: false
-title: Learn how to play any song on the 🎸
+title: Guitar Lessons
 baseurl: /
 canonicalurl: true
