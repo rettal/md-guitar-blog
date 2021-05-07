@@ -6,7 +6,7 @@
   CECIL_VERSION = "5.42.5"
 
 [context.deploy-preview.environment]
-  CECIL_ENV = "preview"
+  CECIL_ENV = "production"
 
 [context.branch-deploy.environment]
   CECIL_ENV = "production"
