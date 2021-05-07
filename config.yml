@@ -19,4 +19,4 @@ hyde:
   reverse: false
 title: Guitar Lessons
 baseurl: /
-canonicalurl: true
+canonicalurl: false
