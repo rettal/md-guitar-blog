@@ -22,4 +22,4 @@ Live your life with music and guitar and let it flow and be an expression of you
 
 "Music's cool... at Mikes Music's School" 
 
-Contact me at mikesmusicscool@gmail.com
+Contact me at mikesmusicscool@gmail.com.
