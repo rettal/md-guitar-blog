@@ -9,7 +9,7 @@
   CECIL_ENV = "preview"
 
 [context.branch-deploy.environment]
-  CECIL_ENV = "branch"
+  CECIL_ENV = "production"
 
 [template.environment]
   CECIL_TITLE = "Blog's title"
