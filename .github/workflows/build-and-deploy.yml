@@ -79,5 +79,5 @@ jobs:
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       with:
-        email: arnaud@ligny.org
+        email: dan.latter@gmail.com
         build_dir: _site
