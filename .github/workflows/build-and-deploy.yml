@@ -75,7 +75,7 @@ jobs:
         path: _site/
 
     - name: Deploy site to GitHub Pages
-      uses: Cecilapp/GitHub-Pages-deploy@v3
+      uses: Cecilapp/GitHub-Pages-deploy@3.2.0
       env:
         GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
       with:
