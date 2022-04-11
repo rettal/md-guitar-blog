@@ -56,7 +56,7 @@ jobs:
         echo "### Cecil Action done"
 
     - name: Upload site to Artifacts
-      uses: actions/upload-artifact@v2
+      uses: actions/upload-artifact@v3
       with:
         name: _site
         path: _site/
